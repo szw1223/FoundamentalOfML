@@ -3,12 +3,6 @@
 ## Description
 This respository holds the project for Machine Learning at UF (EEL 5840), which had to do with character recognition.
 
-## Team Members
-* Kaiyang Han
-* Fuyuan Zhang
-* Spencer Chang
-* Zhewei Song
-
 ## Approach
 KNN - Easy data set covering letters a and b.
 
